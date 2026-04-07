@@ -1,0 +1,7 @@
+{
+  "name": "SmartEng",
+  "description": "Ứng dụng học tiếng Anh toàn diện cho học sinh THPT, tích hợp AI chấm điểm phát âm, luyện ngữ pháp và đấu trường thi đấu trực tuyến.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
